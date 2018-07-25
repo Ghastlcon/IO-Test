@@ -1,4 +1,7 @@
 # IO-Test
+
+### 速度之争
+
 众所周知，在 `OI` 中常常有着拥有大量输入输出的题目。
 
 面对这样的题目，输入输出的速度就成了重中之重。
@@ -13,13 +16,13 @@
 
 我衷心祝愿大家不再重蹈覆辙。
 
-* * *
+### 结论
 
 ![](result.png)
 
 具体的结果[点此](https://htmlpreview.github.io/?https://github.com/Ghastlcon/IO-Test/blob/master/IO/result.html)查看。
 
-* * *
+### 评测配置
 
 评测机为物理机，具体配置如下
 
@@ -36,7 +39,7 @@
 
 编译指令为 `g++ IO.cpp -o IO -Wall -Wextra` 。
 
-* * *
+### 测试方法
 
 具体的测试方法为，给定 `n` 个无符号整数，用空格隔开，需要按顺序输出，用换行符隔开。
 
