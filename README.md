@@ -34,6 +34,8 @@
 * `Windows 8.1 Enterprise`
 * `Lenovo Thinkpad X230T`
 
+编译指令为 `g++ IO.cpp -o IO -Wall -Wextra` 。
+
 * * *
 
 具体的测试方法为，给定 `n` 个无符号整数，用空格隔开，需要按顺序输出，用换行符隔开。
