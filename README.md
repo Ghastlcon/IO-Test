@@ -17,7 +17,7 @@
 
 ![](result.png)
 
-具体的结果[点此](/IO/result.html)查看。
+具体的结果[点此](https://htmlpreview.github.io/?https://github.com/Ghastlcon/IO-Test/blob/master/IO/result.html)查看。
 
 * * *
 
