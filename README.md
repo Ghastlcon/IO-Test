@@ -31,7 +31,7 @@
 * `8GB DDR3 1600 RAM`
   * 单通道内存
 * `INTEL SC2BF180A4L SSD`
-* `Windows`
+* `Windows 8.1 Enterprise`
 * `Lenovo Thinkpad X230T`
 
 * * *
