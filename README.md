@@ -17,6 +17,10 @@
 
 ![](result.png)
 
+具体的结果[点此](/IO/result.html)查看。
+
+* * *
+
 评测机为物理机，具体配置如下
 
 * Intel® Core™ i5-3320M Processor @ 2.60 GHz
