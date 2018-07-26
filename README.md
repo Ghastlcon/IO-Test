@@ -35,7 +35,9 @@
   * 单通道内存
 * `INTEL SC2BF180A4L SSD`
 * `Windows 8.1 Enterprise`
-* `Lenovo Thinkpad X230T`
+* `Lenovo Thinkpad X230t`
+
+编译器为 `g++ (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0` 。
 
 编译指令为 `g++ IO.cpp -o IO -Wall -Wextra` 。
 
